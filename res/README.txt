@@ -1,0 +1,1 @@
+En esta carpeta se puede encontrar los resultados de interese del proyecto.

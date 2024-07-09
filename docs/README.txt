@@ -1,0 +1,1 @@
+En este carpeta se puede encontrar los documentos de interés utilizados en el proyecto.
